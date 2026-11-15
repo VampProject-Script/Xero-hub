@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://kriph.pages.dev/api/alnr_999/raw/AHPOtwHG"))()
+loadstring(game:HttpGet("https://pastefy.app/zdb5qTgh/raw"))()
